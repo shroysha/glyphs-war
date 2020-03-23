@@ -1,5 +1,5 @@
 # glyphs-war
-> see code: [https://github.com/shroysha/glyphs-war](https://github.com/shroysha/glyphs-war)
+{*> see code: [https://github.com/shroysha/glyphs-war](https://github.com/shroysha/glyphs-war)*}
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
